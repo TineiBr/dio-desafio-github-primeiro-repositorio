@@ -1,0 +1,14 @@
+#Comandos Utéis
+- Git clone "Clonar o repertorio do GitHub para tua maquina"
+- Git Push  "Upar o repertorio da sua maquina para o GitHub"
+- Git commit "Commitar seu repertorio"
+- Git commit -m "Commitar e adicionar uma mensagem"
+- Git Pull "Puxar um repertorio do Github para sua maquina" 
+- Git status "Verificar o estado do repertorio"
+- Git add . "Adiciona as modificações no repertorio atual"
+
+#Observações
+
+Git Bash é um terminal onde se da os comandos pelo GIT 
+
+ 
