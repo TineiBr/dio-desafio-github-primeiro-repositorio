@@ -1,6 +1,6 @@
 #Comandos Utéis
 - Git clone "Clonar o repertorio do GitHub para tua maquina"
-- Git Push  "Upar o repertorio da sua maquina para o GitHub"
+- Git Push origin main  "Upar o repertorio da sua maquina para o GitHub"
 - Git commit "Commitar seu repertorio"
 - Git commit -m "Commitar e adicionar uma mensagem"
 - Git Pull "Puxar um repertorio do Github para sua maquina" 
